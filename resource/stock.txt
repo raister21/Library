@@ -1,0 +1,4 @@
+Don Quixote, Miguel Cervantes,20, $2.50
+Harry Potter, J. K. Rowling,35, $2.00
+War and Peace, Leo Tolstoy ,35, $3.00
+Frankenstein,Mary Shelley,20, $1.50
